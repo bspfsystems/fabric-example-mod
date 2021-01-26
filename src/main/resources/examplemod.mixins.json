@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "org.bspfsystems.example.mixin.ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
